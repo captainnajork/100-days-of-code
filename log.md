@@ -40,6 +40,11 @@ https://cs50.harvard.edu/x/2023/notes/0/
 
 **Thoughts**  Remember int() for whole numbers, float() for numbers with decimals, round(number, 2) to round to 2 decimal places
 
+CS50 lecture: Think of arguments as inputs! In the mental model:
+Input -> Algorithm -> Output
+
+Scratch project idea: A ball that bounces around the screen (like Windows screensaver), leaves a train behind it to create a pattern and/or plays specific tones depending on where it makes contact with the perimeter. The perimeter can also be other shapes than a rectangle.
+
 **Link(s) to work**
 
 
