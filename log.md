@@ -16,12 +16,73 @@ Unicode includes all human languages & emojis
 https://cs50.harvard.edu/x/2023/notes/0/
 
 
-### Day 1: June 27, Monday
+### Day 1: April 24
 
 **Today's Progress**: Replit python days 7 & 8. Continued CS50 Week 1 
 
 **Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 2: April 25
+
+**Today's Progress**: Replit python day 9 
+
+**Thoughts** Started making a prompter for REBT arguments
+
+**Link(s) to work**
+
+
+### Day 3: April 26
+
+**Today's Progress**: Replit python day 10
+
+**Thoughts**  Remember int() for whole numbers, float() for numbers with decimals, round(number, 2) to round to 2 decimal places
+
+**Link(s) to work**
+
+
+### Day 4: April 27
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 5: April 28
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 6: April 29
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 7: April 30
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 8: May 1
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
