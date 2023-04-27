@@ -50,7 +50,8 @@ Scratch project idea: A ball that bounces around the screen (like Windows screen
 
 ### Day 4: April 27
 
-**Today's Progress**: 
+**Today's Progress**: Replit python day 11, 12
+Started "bouncing ball" Scratch project
 
 **Thoughts** 
 
