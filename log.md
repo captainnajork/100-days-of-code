@@ -60,9 +60,9 @@ Started "bouncing ball" Scratch project
 
 ### Day 5: April 28
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 13
 
-**Thoughts** 
+**Thoughts** Just a quick session at end of day
 
 **Link(s) to work**
 
