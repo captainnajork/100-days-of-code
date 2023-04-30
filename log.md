@@ -69,20 +69,21 @@ Started "bouncing ball" Scratch project
 
 ### Day 6: April 29
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 14
 
-**Thoughts** 
+**Thoughts** Learned f-strings: 
+print(f"Very well, {p2}, may your moves cut like paper!")
 
 **Link(s) to work**
 
 
 ### Day 7: April 30
 
-**Today's Progress**: 
+**Today's Progress**: Finished Rock, Paper, Scissors for Replit python Day 14
 
 **Thoughts** 
 
-**Link(s) to work**
+**Link(s) to work** https://replit.com/@paulsabin/day14100-days
 
 
 ### Day 8: May 1
