@@ -88,7 +88,7 @@ print(f"Very well, {p2}, may your moves cut like paper!")
 
 ### Day 8: May 1
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 15 - while loops
 
 **Thoughts** 
 
