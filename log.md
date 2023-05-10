@@ -93,3 +93,40 @@ print(f"Very well, {p2}, may your moves cut like paper!")
 **Thoughts** 
 
 **Link(s) to work**
+
+MISSED DAYS
+
+### Day 9: May 10
+
+**Today's Progress**: Replit python Day 17, 18
+
+**Thoughts**  Use break to exit a loop. Use continue to go back to start of loop. Use exit() to end program.
+
+**Link(s) to work**
+
+
+### Day 10: May 11
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 11: May 12
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+
+### Day 12: May 13
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
