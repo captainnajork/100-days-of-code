@@ -107,9 +107,9 @@ MISSED DAYS
 
 ### Day 10: May 11
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 19
 
-**Thoughts** 
+**Thoughts** For loops, range(), round(number,2)
 
 **Link(s) to work**
 
