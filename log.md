@@ -116,7 +116,7 @@ MISSED DAYS
 
 ### Day 11: May 12
 
-**Today's Progress**: 
+**Today's Progress**: Looked at HumHub code with ChatGPT
 
 **Thoughts** 
 
