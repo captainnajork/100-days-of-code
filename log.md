@@ -125,8 +125,8 @@ MISSED DAYS
 
 ### Day 12: May 13
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 20, 21
 
-**Thoughts** 
+**Thoughts** range(0, 23, 2) starting number, ending before number, increment
 
 **Link(s) to work**
