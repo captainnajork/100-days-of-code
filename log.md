@@ -1,5 +1,41 @@
 # 100 Days Of Code - Log
 
+### Day 17: May 18
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+### Day 16: May 17
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+### Day 15: May 16
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+### Day 14: May 15
+
+**Today's Progress**: 
+
+**Thoughts** 
+
+**Link(s) to work**
+
+### Day 13: May 14
+
+**Today's Progress**: Replit python Day 22
+
+**Thoughts** importing libraries - random library to use random.randint(1,100)
+
+**Link(s) to work**
+
+------------------------------
+
 ### Day 0: April 23, 2023 (Example 1)
 
 **Today's Progress**: Replit python first 6 "days". Started CS50 Week 1
