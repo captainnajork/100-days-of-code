@@ -20,15 +20,15 @@
 
 ### Day 14: May 15
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 24, continued with Scratch game
 
-**Thoughts** 
+**Thoughts** The terms subroutine and function are used interchangably in python. You define a function with def [name] (parameter1, parameter2)
 
 **Link(s) to work**
 
 ### Day 13: May 14
 
-**Today's Progress**: Replit python Day 22
+**Today's Progress**: Replit python Day 22, 23
 
 **Thoughts** importing libraries - random library to use random.randint(1,100)
 
