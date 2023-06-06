@@ -1,10 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 17: May 22
+### Day 17: June 6
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 26
 
 **Thoughts** 
+
+{MISSED 14 DAYS}
 
 ### Day 16: May 21
 
