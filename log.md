@@ -1,20 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 21: June 10
+### Day 21: June 16
 
 **Today's Progress**: 
 
 **Thoughts** 
 
-### Day 20: June 9
+### Day 20: June 15
 
 **Today's Progress**: 
 
 **Thoughts** 
 
-### Day 19: June 8
+### Day 19: June 14
 
-**Today's Progress**: 
+**Today's Progress**: Replit python Day 28
 
 **Thoughts** 
 
