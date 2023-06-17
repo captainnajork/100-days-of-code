@@ -1,14 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 22: June 17
+
+**Today's Progress**: Brilliant: completed Computer Science Fundamentals. Started Python.
+
+**Thoughts**: solving puzzles and games by searching for a path through a graph. Each vertix represents a game state and each edge a possible move.
+
 ### Day 21: June 16
 
-**Today's Progress**: 
+**Today's Progress**: Brilliant: order and search; using resources
 
-**Thoughts** 
+**Thoughts** cache = temporarily store information close, for quick retrieval. Memory is a "space" resource. Other resources: time, money, energy
 
 ### Day 20: June 15
 
-**Today's Progress**: 
+**Today's Progress**: Started "Brilliant" computer science course
 
 **Thoughts** 
 
