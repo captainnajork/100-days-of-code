@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 24: June 19
+
+**Today's Progress**: Brilliant: continued Python course
+
+**Thoughts**: The third input to range is the step size — how many numbers to jump in between each loop. For i in range(5,50,5)
+
+### Day 23: June 18
+
+**Today's Progress**: Brilliant: started data storage course
+
+**Thoughts**:
+
 ### Day 22: June 17
 
 **Today's Progress**: Brilliant: completed Computer Science Fundamentals. Started Python.
