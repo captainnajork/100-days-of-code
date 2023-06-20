@@ -1,14 +1,32 @@
 # 100 Days Of Code - Log
 
+### Day 27: June 22
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 26: June 21
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 25: June 20
+
+**Today's Progress**: Brilliant: finished Programming with Python course. Started Next Steps with Python course.
+
+**Thoughts**: 
+
 ### Day 24: June 19
 
-**Today's Progress**: Brilliant: continued Python course
+**Today's Progress**: Brilliant: continued Python course, Algorithms and Data Structures course
 
 **Thoughts**: The third input to range is the step size — how many numbers to jump in between each loop. For i in range(5,50,5)
 
 ### Day 23: June 18
 
-**Today's Progress**: Brilliant: started data storage course
+**Today's Progress**: Brilliant: started Algorithms and Data Structures course
 
 **Thoughts**:
 
