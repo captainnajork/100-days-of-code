@@ -1,16 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 27: June 22
+### Day 27: June 25 
 
-**Today's Progress**: 
+**Today's Progress**: Brilliant - countinued Next Steps with Python course
+
+**Thoughts**: 
+
+### Day 26: June 24
+
+**Today's Progress**: Brilliant - countinued Algorithms and Data Structures course
 
 **Thoughts**: 
 
-### Day 26: June 21
-
-**Today's Progress**: 
-
-**Thoughts**: 
+[Missed 3 days]
 
 ### Day 25: June 20
 
