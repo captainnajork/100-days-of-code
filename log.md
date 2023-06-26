@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 30: June 28 
+
+**Today's Progress**: Brilliant - countinued Next Steps with Python course
+
+**Thoughts**: 
+
+### Day 29: June 27 
+
+**Today's Progress**: Brilliant - countinued Next Steps with Python course
+
+**Thoughts**: 
+
+### Day 28: June 26 
+
+**Today's Progress**: Brilliant - finished Next Steps with Python course
+
+**Thoughts**: 
+
 ### Day 27: June 25 
 
 **Today's Progress**: Brilliant - countinued Next Steps with Python course
