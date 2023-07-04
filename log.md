@@ -1,8 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 30: June 28 
+### Day 32: July 5 
 
 **Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 31: July 4 
+
+**Today's Progress**: Replit python day 29, 30
+
+**Thoughts**: 
+
+### Day 30: July 3 
+
+**Today's Progress**: Brilliant - continued Algorithms and Data Structures course
 
 **Thoughts**: 
 
