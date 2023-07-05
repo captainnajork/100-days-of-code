@@ -2,9 +2,9 @@
 
 ### Day 32: July 5 
 
-**Today's Progress**: 
+**Today's Progress**: Replit python day 31
 
-**Thoughts**: 
+**Thoughts**: Created a user interface using advanced print functions to change colors, indentation etc. Really found this difficult and did not enjoy at all! Appears to confirm my impression that front-end design is not my thing.
 
 ### Day 31: July 4 
 
