@@ -2,9 +2,11 @@
 
 ### Day 31: July 8 
 
-**Today's Progress**: Brilliant - continued Algorithms and Data Structures course
+**Today's Progress**: Brilliant - completed Algorithms and Data Structures course
 
 **Thoughts**: Big O notation. I kind of get it, can recognise on a graph what is in O(n), O(n2) etc. but don't fully follow the mathematical proof by equations. Most importantly, the highest power is the crucial factor in determining the size of a function (the number of operations the algorithm must perform). Big O notation tells us approximately how long an algorithm will take to run as the inputs grow very large.
+
+Giving things numbers instead of names allows for quicker algorithm performance. So in the TN if we make each username correspond to a number in the first place, we can later use an array of all users in number order. It can remove the need to search for a user.
 
 ### Day 31: July 7 
 
