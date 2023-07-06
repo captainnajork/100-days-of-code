@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+### Day 31: July 8 
+
+**Today's Progress**: Brilliant - continued Algorithms and Data Structures course
+
+**Thoughts**: Big O notation. I kind of get it, can recognise on a graph what is in O(n), O(n2) etc. but don't fully follow the mathematical proof by equations. Most importantly, the highest power is the crucial factor in determining the size of a function (the number of operations the algorithm must perform). Big O notation tells us approximately how long an algorithm will take to run as the inputs grow very large.
+
+### Day 31: July 7 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 31: July 6 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 ### Day 32: July 5 
 
 **Today's Progress**: Replit python day 31
